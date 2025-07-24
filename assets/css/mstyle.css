@@ -1,0 +1,107 @@
+@media screen and (max-width: 1000px) {
+	.mbl {
+		display:block;
+	}
+	.dstp {
+		display:none;
+	}
+	.container, .course .w-25, .course .w-50  {
+		width: 100%;
+	}
+	.course .w-25 {
+		padding: 50px;
+	}
+	.mainheader .w-50 {
+		width:100%!important;
+	}
+	
+	.bheader .w-25{
+		width:100%;
+		text-align:center;
+	}
+	.bheader .w-75{
+		width:50%;
+	}
+	
+	.select .fleft{
+		width:50%;
+	}
+	
+	.frm{
+		padding : 0px 110px;
+	}
+	
+	form input {
+		margin:  0px;
+		padding: 10px 20px;
+		width: 88%;
+	}
+	
+	.courses {
+		width: 100%!important;
+		margin: 0px;
+		margin-bottom: 40px;
+		padding: 0px 40px;
+		}
+	
+	.courses label {
+		font-size: 50px;
+	}
+	
+	.courses p {
+		font-size: 22px;
+	}
+	
+	.contact span {
+		font-size: 30px;
+	}
+	
+	.contact img {
+		width: 50px;
+	}
+	
+	.contact button {
+		padding: 10px 35px;
+		margin-top: 10px;
+	}
+	
+	.register .w-50{
+		width:100%;
+		margin-bottom:20px;
+		margin-top: 20px
+	}
+	
+	.activity .fleft {
+		width: 100%;
+	}
+	
+	.activity .blogd {
+		text-align:center;
+	}
+	
+	.blogrow {
+		margin-bottom:20px!important;
+	}
+	
+	.activity p {
+		font-size: 26px;
+	}
+	
+	.activity a {
+		font-size: 30px;
+	}
+	
+	.activity .blog3 span {
+		font-size: 40px;
+	}
+	
+	.activity button {
+		padding: 20px 40px;
+		font-size: 20px;
+	}
+	.mfooter .fleft {
+		width: 100%;
+		text-align: center;
+		margin-bottom: 30px;
+	}
+}
